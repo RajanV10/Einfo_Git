@@ -12,5 +12,8 @@ echo "Issue is fixed in hotfix branch"
 echo "Now merging hotfix branch into main"
 
 echo "Merge completed successfully."
+echo "Now in main branch"
+
+echo "Merge completed successfully."
 echo "Now in demo branch"
 echo "Now i am continuing my work in demo branch"
