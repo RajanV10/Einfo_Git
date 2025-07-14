@@ -10,3 +10,6 @@ echo "Currently in branch hotfix "
 echo "Current date and time: $(date)"
 echo "Issue is fixed in hotfix branch"
 echo "Now merging hotfix branch into main"
+
+echo "Merge completed successfully."
+echo "Currently in demo branch and continuing to work from here"
